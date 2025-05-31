@@ -1,3 +1,4 @@
+-----------------{Made By Alba}-----------------------
 Config = {}
 
 -- # Locale to be used. You can create your own by simple copying the 'en' and translating the values.
@@ -54,3 +55,4 @@ Config.Uniforms = {
 		}
 	}
 }
+-----------------{Made By Alba}-----------------------

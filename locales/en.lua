@@ -1,3 +1,4 @@
+-----------------{Made By Alba}-----------------------
 Locales ['en'] = {
     ['judge']               = 'RECHTER',
     ['escape_attempt']      = 'Je kunt niet ontsnappen. Je taakstraf is verlengd.',
@@ -5,3 +6,4 @@ Locales ['en'] = {
     ['comserv_msg']         = '%s is veroordeeld tot %s maanden taakstraf.',
     ['comserv_finished']    = '%s heeft zijn taakstraf voltooid!'
 }
+-----------------{Made By Alba}-----------------------
